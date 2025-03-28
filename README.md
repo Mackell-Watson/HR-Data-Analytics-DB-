@@ -1,6 +1,8 @@
 # HR Analytics - Dashboard
 
 ### Dashboard Link : https://github.com/Mackell-Watson?tab=repositories 
+[HR_Analytics_Excel_DB.xlsx](https://github.com/user-attachments/files/19509615/HR_Analytics_Excel_DB.xlsx)
+
 
 ## Problem Statement
 
