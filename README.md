@@ -20,6 +20,11 @@ Attrition data reveals key insights into why employees leave. The two most commo
 The departmental breakdown reveals that Marketing is the largest division, with 16 employees, followed by both Operations and IT, each with 13 employees. Sales accounts for 11 employees, while Finance is the smallest department, with only 9 employees. This distribution suggests that the organization invests heavily in marketing efforts, while finance has the least representation.
 Finally, the dashboard covers data from 2016 to 2025, allowing for multi-year trend analysis. The timeline at the top provides easy filtering options to observe workforce changes over the years. This time range makes it possible to track patterns in job satisfaction, attrition, and workforce composition, aiding HR teams in making data-driven decisions for the future.
 
+### HR Analytics Data (Sheet - HR Form)
+![HR Analytics Data](https://github.com/user-attachments/assets/9dc7248b-a9cc-4748-b90c-db54647f17e6)
+
+
+
 
 
 
