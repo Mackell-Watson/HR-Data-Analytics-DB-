@@ -23,6 +23,12 @@ Finally, the dashboard covers data from 2016 to 2025, allowing for multi-year tr
 ### HR Analytics Data (Sheet - HR Form)
 ![HR Analytics Data](https://github.com/user-attachments/assets/9dc7248b-a9cc-4748-b90c-db54647f17e6)
 
+### HR Analytics Data Cleaning & Measures - ETL (Power Query)
+![HR Analytics Data_ETL](https://github.com/user-attachments/assets/a5a68eb6-a9f6-4042-b7d7-a105ea879e12)
+
+
+
+
 
 
 
